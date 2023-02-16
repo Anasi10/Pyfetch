@@ -8,7 +8,6 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NullBrunk/Pyfetch?style=for-the-badge)
 ![repo size](https://img.shields.io/github/repo-size/NullBrunk/Pyfetch?style=for-the-badge)
 
-![image](https://user-images.githubusercontent.com/106782577/210119170-7133e52a-8632-4d33-adb3-d2edee6ab88d.png)
 
 </div>
 
