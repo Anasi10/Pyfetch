@@ -4,9 +4,9 @@
 
 <br>
 
-![GitHub top language](https://img.shields.io/github/languages/top/NullBrunk/Pyfetch?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NullBrunk/Pyfetch?style=for-the-badge)
-![repo size](https://img.shields.io/github/repo-size/NullBrunk/Pyfetch?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/Anasi10/Pyfetch?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Anasi10/Pyfetch?style=for-the-badge)
+![repo size](https://img.shields.io/github/repo-size/Anasi10/Pyfetch?style=for-the-badge)
 
 
 </div>
